@@ -2,72 +2,111 @@
 <h3 align="center">🚀 Full Stack Developer | TypeScript | Next.js | Express.js | MongoDB</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jabed-Hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Jabed-Hasan" />
+  <img src="https://komarev.com/ghpvc/?username=Jabed-Hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 I'm a passionate Full Stack Developer with expertise in modern web technologies.  
 I specialize in building **secure**, **scalable**, and **user-friendly** applications using:
 
-- **TypeScript**, **Express.js**, **Mongoose**, and **Next.js**
+- **TypeScript**, **Express.js**, **Mongoose**, **Next.js**
 - Currently exploring **PostgreSQL**, **Prisma**, **GraphQL**, **Docker**, and **AWS**
 
-🎯 **Goals for 2025–2026**:
+🎯 **2025–2026 Goals**:
 - Master modern backend & cloud tools
 - Lead impactful real-world projects
-- Become a confident and well-rounded **Senior Software Engineer**
+- Grow into a confident and well-rounded **Senior Software Engineer**
 
 ---
 
-### 🔨 Currently Working On
+## 🔨 Currently Working On
+
 - 🏆 A **Contest Creation Platform** (full-stack project)
 
-### 🌐 My Portfolio
+---
+
+## 🌐 Portfolio
+
 - 🔗 [portfolio-jabeds-projects.vercel.app](https://portfolio-jabeds-projects.vercel.app/)
 
-### 📫 Contact Me
+---
+
+## 📫 Contact Me
+
 - 📧 **jabed8441@gmail.com**
 
 ---
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/developer-jabed" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   <a href="https://fb.com/jabed.hasan.698609" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="30" />
   </a>
   <a href="https://discord.gg/jabed6055" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=discord" height="30" />
   </a>
 </p>
 
 ---
 
-### 🧰 Languages & Tools
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,express,nodejs,mongodb,postgres,prisma,graphql,docker,aws,tailwind,redux,git" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Back-end Technologies
+
+- MongoDB
+- Mongoose
+- Node.js
+- Express.js
+- TypeScript
+- JWT
+- Cloudinary
+- SSLCOMMERZ
+- Multer
+- Bcrypt
+- Zod
+- Nodemailer
+- Stripe
+- SurjoPay
+- CORS
+
+---
+
+## ⚙️ Tools
+
+- VS Code
+- Dev Tools
+- GitHub
+- ESLint
+- Prettier
+- Vercel
+- Redux DevTools
+
+---
+
+## 💡 Interpersonal Skills
+
+- Curiosity
+- Active Listening
+- Responsibility
+- Flexibility
+- Decision-Making
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jabed-Hasan&show_icons=true&theme=default" />
@@ -79,7 +118,7 @@ I specialize in building **secure**, **scalable**, and **user-friendly** applica
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jabed-Hasan&theme=flat" />
