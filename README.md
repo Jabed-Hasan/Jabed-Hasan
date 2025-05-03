@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/your-correct-banner-link.png" alt="Banner" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Md Jabed Hasan</h1>
 <h3 align="center">🚀 Full Stack Developer | TypeScript | Next.js | Express.js | MongoDB</h3>
 
