@@ -41,15 +41,13 @@ I specialize in building **secure**, **scalable**, and **user-friendly** applica
 ## 📫 Contact Me
 
 - 📧 **jabed8441@gmail.com**
-
----
-
-## 🤝 Connect with Me
+- 📱 WhatsApp: [Click to chat](https://wa.me/8801234567890) <!-- Replace with your number -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/developer-jabed" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://linkedin.com/in/developer-jabed" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg" height="30" /></a>
   <a href="https://fb.com/jabed.hasan.698609" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="30" /></a>
-  <a href="https://discord.gg/jabed6055" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>
+  <a href="https://discord.com/users/jabed6055" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>
+  <a href="https://wa.me/8801743770253" target="_blank"><img src="https://skillicons.dev/icons?i=whatsapp" height="30" /></a> <!-- Replace with your number -->
 </p>
 
 ---
@@ -106,11 +104,11 @@ I specialize in building **secure**, **scalable**, and **user-friendly** applica
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jabed-Hasan&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jabed-Hasan&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabed-Hasan&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabed-Hasan&layout=compact&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabed-Hasan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabed-Hasan&theme=tokyonight" />
 </p>
 
 ---
@@ -118,5 +116,5 @@ I specialize in building **secure**, **scalable**, and **user-friendly** applica
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jabed-Hasan&theme=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jabed-Hasan&theme=onedark" />
 </p>
