@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/your-correct-banner-link.png" alt="Banner" />
+  <img src="./assets/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Md Jabed Hasan</h1>
