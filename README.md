@@ -1,3 +1,8 @@
+<head>
+  <!-- Font Awesome CDN for icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+
 <p align="center">
   <img src="./assets/banner.png" alt="Banner" />
 </p>
@@ -37,18 +42,31 @@ I specialize in building **secure**, **scalable**, and **user-friendly** applica
 - 🔗 [portfolio-jabeds-projects.vercel.app](https://portfolio-jabeds-projects.vercel.app/)
 
 ---
-
 ## 📫 Contact Me
 
-- 📧 **jabed8441@gmail.com**
-- 📱 WhatsApp: [Click to chat](https://wa.me/8801234567890) <!-- Replace with your number -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/developer-jabed" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg" height="30" /></a>
-  <a href="https://fb.com/jabed.hasan.698609" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="30" /></a>
-  <a href="https://discord.com/users/jabed6055" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>
-  <a href="https://wa.me/8801743770253" target="_blank"><img src="https://skillicons.dev/icons?i=whatsapp" height="30" /></a> <!-- Replace with your number -->
+<p align="center" style="text-decoration: none;">
+  <a href="mailto:jabed8441@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/8801743770253" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" height="40" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/developer-jabed" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://fb.com/jabed.hasan.698609" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/facebook.png" height="40" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/jabed6055" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" height="40" alt="Discord" />
+  </a>
 </p>
+
+
 
 ---
 
