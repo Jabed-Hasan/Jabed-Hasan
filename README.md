@@ -4,7 +4,7 @@
 </head>
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" />
+  <img src="./assets/Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image (1).png" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Md Jabed Hasan</h1>
