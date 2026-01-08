@@ -1,5 +1,4 @@
 <head>
-  <!-- Font Awesome CDN for icons -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 </head>
 
@@ -22,7 +21,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 I specialize in building **secure**, **scalable**, and **user-friendly** applications using:
 
 - **TypeScript**, **Express.js**, **Mongoose**, **Next.js**
-- Currently exploring **PostgreSQL**, **Prisma**, **GraphQL**, **Docker**, and **AWS**
+- Currently working with **PostgreSQL**, **Prisma**, **Docker**, and **AWS**
 
 🎯 **2025–2026 Goals**:
 - Master modern backend & cloud tools
@@ -81,8 +80,10 @@ I specialize in building **secure**, **scalable**, and **user-friendly** applica
 ### 🛠️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+  <br>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-fe0808?style=for-the-badge&logo=typeorm&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Bcrypt-333333?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Multer-000000?style=for-the-badge&logoColor=white" />
@@ -100,7 +101,8 @@ I specialize in building **secure**, **scalable**, and **user-friendly** applica
 ## 🧪 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,vercel,docker,postman" />
+  <br>
   <img src="https://img.shields.io/badge/Redux_Dev_Tools-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
