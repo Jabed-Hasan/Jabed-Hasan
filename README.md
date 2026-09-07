@@ -3,7 +3,7 @@
 </head>
 
 <p align="center">
-  <img src="./assets/Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image (1).png" alt="Banner" />
+  <img src="./assets/file_00000000171482078bcd5e4e271f110f (1).png" alt="Banner" />
 </p>
 
 <h1 align="center">
