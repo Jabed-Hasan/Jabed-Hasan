@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md+Jabed+Hasan+%F0%9F%91%8B;Software+Engineer+%7C+T3+Stack;Fintech+%7C+ERP+%7C+AI+Automation" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Software Engineer · Next.js · Node.js · AWS. Docker · AI Automation</h3>
+<h3 align="center">🚀 Software Engineer · Next.js · Node.js · AWS. GCP. Docker · AI Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jabed-Hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
